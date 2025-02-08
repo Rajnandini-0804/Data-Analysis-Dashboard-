@@ -18,9 +18,9 @@ Vrinda store wants to creating an annual sales report for 2022. so that, vrinda 
 - What are different order status in 2022?
 - List top 10 states contributing to  the sales?
 - Relation between age and gender based on number of orders
-- Which cahnnel is contributing to maximum sales?
+- Which cahnnel is contributing to maximum sales? 
 - Highest selling category? Etc.
- dashborad interaction-
+ dashborad interaction- 
 <a href="https://github.com/Rajnandini-0804/Data-Analysis-Dashboard-/blob/main/Vrinda%20Store%20Data%20Analysis%20(1).xlsx"> view Dashboard</a>
 
  ## dashboard 
