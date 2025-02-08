@@ -5,7 +5,7 @@
               Vrinda store wants to creating an annual sales report for 2022. so that, vrinda can understand their customers and grow morre sales in 2023.												
 
 ## Dataset used
-- <a href="https://github.com/Rajnandini-0804/Data-Analysis-Dashboard-/blob/main/vrinda.conclusion1.xlsx">dataset</a>
+- <a href="https://github.com/Rajnandini-0804/Data-Analysis-Dashboard-/blob/main/vrinda.conclusion1.xlsx">view dataset </a>
 
 
 ##Questions (KPI)
