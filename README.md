@@ -27,10 +27,10 @@ Vrinda store wants to creating an annual sales report for 2022. so that, vrinda 
 <a href="https://github.com/Rajnandini-0804/Data-Analysis-Dashboard-/blob/main/screenshort.dashboard.xlsx">dashboard </a>
 
 ## project insight
--women are more likely to buy compared to men(-65).						
--Adult age group (30-49 yrs) is max contributing (50%).					
--Amazon, Flipcart and Myntra Channels are max contributing ( 80%).
--Maharashtra, Karnataka and Uttar Pradesh are the top 3 states(-35%).	
+- women are more likely to buy compared to men(-65).						
+- Adult age group (30-49 yrs) is max contributing (50%).					
+- Amazon, Flipcart and Myntra Channels are max contributing ( 80%).
+- Maharashtra, Karnataka and Uttar Pradesh are the top 3 states(-35%).	
 	    
 ## Final Conclusion
 target women Customer of age group (30-49 yrs) living in 								
