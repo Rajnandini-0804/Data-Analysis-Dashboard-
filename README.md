@@ -1,14 +1,17 @@
 													
 # Vrinda Store-Data-Anaysis(Interactive dashboard creating using MS Excel)													
-													
 ## project objective		:-											
               Vrinda store wants to creating an annual sales report for 2022. so that, vrinda can understand their customers and grow morre sales in 2023.												
 
-## Dataset used
-- <a href="https://github.com/Rajnandini-0804/Data-Analysis-Dashboard-/blob/main/vrinda.conclusion1.xlsx">view dataset </a>
+## Dataset used and process
+* process:- verify data for any missing value anamalies , and out the same.
+- made sure data is consistent and clean with respect to data type,data format and values used.
+- Created pivot according to the questions asked
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+ dataset and proccess - <a href="https://github.com/Rajnandini-0804/Data-Analysis-Dashboard-/blob/main/vrinda.dataset%26SS.xlsx">view dataset and Process </a>
 
 
-##Questions (KPI)
+## Questions (KPI)
 - Compare the sales and orders using single chart
 - Which month got the highest sales and orders?
 - Who purchased more-men or women in 2022?
@@ -17,4 +20,4 @@
 - Relation between age and gender based on number of orders
 - Which cahnnel is contributing to maximum sales?
 - Highest selling category? Etc.
- - <a href="https://github.com/Rajnandini-0804/Data-Analysis-Dashboard-/blob/main/Vrinda%20Store%20Data%20Analysis%20(1).xlsx"> view Dashboard</a>
+ dashborad interaction- <a href="https://github.com/Rajnandini-0804/Data-Analysis-Dashboard-/blob/main/Vrinda%20Store%20Data%20Analysis%20(1).xlsx"> view Dashboard</a>
