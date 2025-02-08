@@ -4,7 +4,8 @@
 Vrinda store wants to creating an annual sales report for 2022. so that, vrinda can understand their customers and grow morre sales in 2023.												
 
 ## Dataset used and process
-* process:- verify data for any missing value anamalies , and out the same.
+* process:
+-verify data for any missing value anamalies , and out the same.
 - made sure data is consistent and clean with respect to data type,data format and values used.
 - Created pivot according to the questions asked
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
