@@ -21,3 +21,6 @@
 - Which cahnnel is contributing to maximum sales?
 - Highest selling category? Etc.
  dashborad interaction- <a href="https://github.com/Rajnandini-0804/Data-Analysis-Dashboard-/blob/main/Vrinda%20Store%20Data%20Analysis%20(1).xlsx"> view Dashboard</a>
+
+ ## dashboard
+ <a href="https://github.com/Rajnandini-0804/Data-Analysis-Dashboard-/blob/main/screenshort.dashboard.xlsx">dashboard </a>
